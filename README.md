@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @StefanFischer, Master Student at Friedrich-Alexander-University Erlangen-Nuremburg
-- 👀 I’m interested in Medical Image Processing, Audio Signal Processing and Reinforcement Learning and much more!
+- 👋 Hi, I’m @StefanFischer, PhD at Technical University of Munich in the CompAI Lab (https://compai-lab.github.io/)
+- Former Master Student at Friedrich-Alexander-University Erlangen-Nuremburg
+- 👀 I’m interested in Medical Image Processing especially 3D patch-based image segmentation
 
 
 <!---
